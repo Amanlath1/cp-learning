@@ -7,5 +7,5 @@ for number in numbers:
     if number % 2 == 0:
         print(number)
 
-for number in range(5):
-    print(numbers[number])
+for numbers in range(5):
+    print(numbers)
